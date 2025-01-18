@@ -145,7 +145,7 @@ function App() {
             <p>Powered by OpenWeather API</p>
             <span>|</span>
             <a
-              href="https://github.com"
+              href="https://github.com/Machahary07/KumoSight-2.0"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 hover:text-white transition-colors"

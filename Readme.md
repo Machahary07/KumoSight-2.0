@@ -2,7 +2,7 @@
 
 A beautiful weather application built with React, TypeScript, and Tailwind CSS that shows current weather and 7-day forecast for any city. Features a glassmorphism UI design and real-time weather updates using the OpenWeather API.
 
-![Weather App Screenshot](https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80)
+![Weather App Screenshot](/readmesr.mp4)
 
 ## Features
 
@@ -146,14 +146,6 @@ The application supports all modern browsers:
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## License
 
