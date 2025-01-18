@@ -2,7 +2,7 @@
 
 A beautiful weather application built with React, TypeScript, and Tailwind CSS that shows current weather and 7-day forecast for any city. Features a glassmorphism UI design and real-time weather updates using the OpenWeather API.
 
-![Weather App Screenshot](/readmess.png.mp4)
+![Weather App Screenshot](/readmesr.mp4)
 
 ## Features
 
